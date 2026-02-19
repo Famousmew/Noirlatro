@@ -11,9 +11,9 @@ Anyways no one is going to see this until it is finished. The only reason this e
 
 HOW TO INSTALL IF YOU SOMEHOW FIND THIS AND WANT TO SEE WHAT I HAVE WORKED ON
 # PREREQUISITES
-Lovely Injector (You can find it [here](https://github.com/ethangreen-dev/lovely-injector/releases/tag/v0.9.0))
-Steamodded Version 1.0.0-BETA-1224a (Other Versions are not guarenteed to work. You can find it [here](
-The latest Balatro Verison
+- Lovely Injector (You can find it [here](https://github.com/ethangreen-dev/lovely-injector/releases/tag/v0.9.0))
+- Steamodded Version 1.0.0-BETA-1224a (Other Versions are not guarenteed to work. You can find it [here](
+- The latest Balatro Verison
 - Optional, if you are going to assist with Debugging: DebugPlus
 
 Put the Noirlatro folder in C:(Your User)\Appdata\Roaming\Balatro\Mods (If the "Mods" folder does not exist, create it) and leave it in the ROOT of your Mods folder.

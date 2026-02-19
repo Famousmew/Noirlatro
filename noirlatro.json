@@ -1,0 +1,10 @@
+{
+"id": "noirlatro",
+"name": "Noirlatro",
+"author": ["FamousmewYT-JP"],
+"description": "Noirlatro is a really janky and very broken Balatro Mod created by FamousmewYT-JP specifically for Noir Heart, the Noir Heart Discord Server and the Noir Heart fanbase by a singular Noir Heart Fan.",
+"version": "0.0.2",
+"dependencies": [],
+"prefix": "noir",
+"main_file": "main.lua"
+}

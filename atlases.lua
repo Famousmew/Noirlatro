@@ -15,10 +15,18 @@ py = 34
 }
 
 SMODS.Atlas{
-key = "nub"
-path = "j_nub.png"
-px = 71
+key = "nub_joker",
+path = "j_nub.png",
+px = 71,
+py = 95,
+}
+
+SMODS.Atlas{
+key = "kumo_joker",
+path = "j_kumo.png",
+px = 71,
 py = 95
 }
+
 
 

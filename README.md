@@ -15,6 +15,7 @@ HOW TO INSTALL IF YOU SOMEHOW FIND THIS AND WANT TO SEE WHAT I HAVE WORKED ON
 - Steamodded Version 1.0.0-BETA-1224a (Other Versions are not guarenteed to work. You can find it [here](https://github.com/Steamodded/smods/releases/tag/1.0.0-beta-1224a)
 - The latest Balatro Verison
 - Optional, if you are going to assist with Debugging: DebugPlus. You can find it [here](https://github.com/WilsontheWolf/DebugPlus/releases/tag/v1.5.1)
+
 Make sure Steamodded and DebugPlus are in your Mods Folder, and Lovely Patcher's Version.dll is in your actual Balatro game instal!
 
 Put the Noirlatro folder in C:(Your User)\Appdata\Roaming\Balatro\Mods (If the "Mods" folder does not exist, create it) and leave it in the ROOT of your Mods folder.

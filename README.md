@@ -22,3 +22,5 @@ Put the Noirlatro folder in C:(Your User)\Appdata\Roaming\Balatro\Mods (If the "
 
 Cross-Compatability is not tested with other mods and thus is not guarenteed.
 If you encounter any issues please feel free to put them in the Issues tab and I will try to fix them as soon as I can.
+
+# ***YOU CAN FIND ANY SHOWCASES AND UPDATES ON MY [YOUTUBE CHANNEL](https://www.youtube.com/@famousmew3709) AS THEY COME OUT!***

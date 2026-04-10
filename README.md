@@ -3,7 +3,7 @@ Noirlatro is the Balatro mod made by a Noir Heart Fan for Noir Heart and the Noi
 
 Hello! My name is Famousmew! I am the (sole) creator of Noirlatro! This mod is a really janky and very broken Mod created for the YouTuber Noir Heart, the Noir Heart Discord Server and the Noir Heart Community. But that doesn't mean you have to be a Noir Heart fan to play it, but you might be confused by the refrences...
 
-CURRENTLY THIS PROJECT IS A BIG WORK IN PROGRESS, AND WILL BE FOR A WHILE!
+# CURRENTLY THIS PROJECT IS A BIG WORK IN PROGRESS, AND WILL BE FOR A WHILE! Also on Haiatus because I don't really have the motivation to code right now because this drained me for a few weeks.
 
 I want to assure that all my LUA Scripts were written BY-HAND (Initially), But the Troubleshooting Process is done by AI, mainly because I am super new to LUA. I don't really understand Stack Tracebacks and stuff like that all too well, But I have noticed as I work on this, I am getting much better!
 
@@ -18,7 +18,7 @@ HOW TO INSTALL IF YOU SOMEHOW FIND THIS AND WANT TO SEE WHAT I HAVE WORKED ON
 
 Make sure Steamodded and DebugPlus are in your Mods Folder, and Lovely Patcher's Version.dll is in your actual Balatro game instal!
 
-Put the Noirlatro folder in C:(Your User)\Appdata\Roaming\Balatro\Mods (If the "Mods" folder does not exist, create it) and leave it in the ROOT of your Mods folder.
+Put the Noirlatro folder in C:(Your User)\Appdata\Roaming\Balatro\Mods (If the "Mods" folder does not exist, create it) and leave it in the ROOT of your Mods folder. Mac and Native Linux users, Sorry, but I use Proton, and I've never ONCE used a Mac.
 
 Cross-Compatability is not tested with other mods and thus is not guarenteed.
 If you encounter any issues please feel free to put them in the Issues tab and I will try to fix them as soon as I can.

@@ -12,7 +12,7 @@ Anyways no one is going to see this until it is finished. The only reason this e
 HOW TO INSTALL IF YOU SOMEHOW FIND THIS AND WANT TO SEE WHAT I HAVE WORKED ON
 # PREREQUISITES
 - Lovely Injector (You can find it [here](https://github.com/ethangreen-dev/lovely-injector/releases/tag/v0.9.0))
-- Steamodded Version 1.0.0-BETA-1224a (Other Versions are not guarenteed to work. You can find it [here](https://github.com/Steamodded/smods/releases/tag/1.0.0-beta-1224a)
+- Steamodded Version 1.0.0-BETA-1224a (Other Versions are not guarenteed to work. You can find it [here](https://github.com/Steamodded/smods/releases/tag/1.0.0-beta-1224a))
 - The latest Balatro Verison
 - Optional, if you are going to assist with Debugging: DebugPlus. You can find it [here](https://github.com/WilsontheWolf/DebugPlus/releases/tag/v1.5.1)
 
